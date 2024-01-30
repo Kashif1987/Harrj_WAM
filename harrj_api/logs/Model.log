@@ -1,0 +1,1450 @@
+Tue, 02 Nov 2021 07:48:22 GMT | ERROR | Model.log | Error: Field 'id' doesn't have a default value | 
+Tue, 02 Nov 2021 07:49:21 GMT | ERROR | Model.log | Error: Field 'id' doesn't have a default value | 
+Tue, 02 Nov 2021 07:53:31 GMT | ERROR | Model.log | Error: Table 'auction.employee' doesn't exist | 
+Tue, 02 Nov 2021 08:10:18 GMT | ERROR | Model.log | Error: Unknown column 'country.category_id' in 'on clause' | 
+Tue, 02 Nov 2021 08:11:17 GMT | ERROR | Model.log | Error: Unknown column 'country.category_id' in 'on clause' | 
+Tue, 02 Nov 2021 08:13:39 GMT | ERROR | Model.log | Error: Unknown column 'sub_category_id' in 'where clause' | 
+Tue, 02 Nov 2021 08:14:05 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'where clause' | 
+Tue, 02 Nov 2021 08:14:33 GMT | ERROR | Model.log | Error: Table 'auction.employee' doesn't exist | 
+Tue, 02 Nov 2021 08:39:51 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'where clause' | 
+Tue, 02 Nov 2021 11:32:55 GMT | ERROR | Model.log | Error: Column 'product_id' cannot be null | 
+Tue, 02 Nov 2021 11:32:55 GMT | ERROR | Model.log | Error: Column 'product_id' cannot be null | 
+Tue, 02 Nov 2021 12:17:03 GMT | ERROR | Model.log | Error: Not unique table/alias: 'b' | 
+Tue, 02 Nov 2021 12:17:35 GMT | ERROR | Model.log | Error: Unknown column 'a.vedio' in 'field list' | 
+Tue, 02 Nov 2021 12:18:06 GMT | ERROR | Model.log | Error: Table 'auction.product_img' doesn't exist | 
+Tue, 02 Nov 2021 14:18:55 GMT | ERROR | Model.log | Error: Unknown column 'subscription_id' in 'field list' | 
+Tue, 02 Nov 2021 14:26:49 GMT | ERROR | Model.log | Error: Unknown column 'client_id' in 'where clause' | 
+Tue, 02 Nov 2021 14:27:09 GMT | ERROR | Model.log | Error: Unknown column 'client_id' in 'order clause' | 
+Tue, 02 Nov 2021 16:01:52 GMT | ERROR | Model.log | Error: Table 'auction.user' doesn't exist | 
+Tue, 02 Nov 2021 16:02:40 GMT | ERROR | Model.log | Error: Unknown column 'pincode' in 'field list' | 
+Tue, 02 Nov 2021 16:05:18 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'order clause' | 
+Mon, 15 Nov 2021 05:43:02 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'field list' | 
+Mon, 15 Nov 2021 05:49:47 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE banner_id = '2' AND status='1'' at line 1 | 
+Mon, 15 Nov 2021 05:49:56 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE banner_id = '2' AND status='1'' at line 1 | 
+Mon, 15 Nov 2021 05:50:07 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE banner_id = '1' AND status='1'' at line 1 | 
+Mon, 15 Nov 2021 05:50:20 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE banner_id = '2' AND status='1'' at line 1 | 
+Mon, 15 Nov 2021 06:03:38 GMT | ERROR | Model.log | Error: Table 'auction.users' doesn't exist | 
+Mon, 15 Nov 2021 06:05:11 GMT | ERROR | Model.log | Error: Unknown column 'state.state_id' in 'field list' | 
+Mon, 15 Nov 2021 06:06:06 GMT | ERROR | Model.log | Error: Unknown column 'state.state_id' in 'field list' | 
+Mon, 15 Nov 2021 06:18:42 GMT | ERROR | Model.log | Error: Column 'add_by' cannot be null | 
+Mon, 15 Nov 2021 06:42:44 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'where clause' | 
+Mon, 15 Nov 2021 06:43:53 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'where clause' | 
+Mon, 15 Nov 2021 07:10:17 GMT | ERROR | Model.log | Error: Unknown column 'state.city_id' in 'field list' | 
+Mon, 15 Nov 2021 07:13:29 GMT | ERROR | Model.log | Error: Unknown column 'state.city_id' in 'field list' | 
+Mon, 15 Nov 2021 07:53:48 GMT | ERROR | Model.log | Error: Table 'auction.users' doesn't exist | 
+Mon, 15 Nov 2021 08:09:55 GMT | ERROR | Model.log | Error: Table 'auction.users' doesn't exist | 
+Mon, 15 Nov 2021 08:30:33 GMT | ERROR | Model.log | Error: Incorrect integer value: 'Thane' for column 'country_id' at row 1 | 
+Tue, 16 Nov 2021 07:30:04 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(7, CASE WHEN sub_category.sub_category_img  != '' THEN  Concat(sub_catego' at line 1 | 
+Tue, 16 Nov 2021 07:30:09 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(7, CASE WHEN sub_category.sub_category_img  != '' THEN  Concat(sub_catego' at line 1 | 
+Tue, 16 Nov 2021 07:31:19 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Tue, 16 Nov 2021 07:38:51 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Tue, 16 Nov 2021 07:45:53 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Tue, 16 Nov 2021 07:55:42 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Mon, 22 Nov 2021 12:36:19 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Mon, 29 Nov 2021 11:00:00 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Mon, 29 Nov 2021 11:13:30 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM products WHERE status='1' and auction_type='online' ORDER BY product_id DES' at line 1 | 
+Mon, 29 Nov 2021 11:13:30 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM products WHERE status='1' and auction_type='offline' ORDER BY product_id DE' at line 1 | 
+Mon, 29 Nov 2021 11:13:54 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM products WHERE status='1' and auction_type='online' ORDER BY product_id DES' at line 1 | 
+Mon, 29 Nov 2021 11:13:54 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM products WHERE status='1' and auction_type='offline' ORDER BY product_id DE' at line 1 | 
+Mon, 29 Nov 2021 11:14:21 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM products WHERE status='1' and auction_type='online' ORDER BY product_id DES' at line 1 | 
+Mon, 29 Nov 2021 11:14:21 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM products WHERE status='1' and auction_type='offline' ORDER BY product_id DE' at line 1 | 
+Mon, 29 Nov 2021 13:04:34 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Mon, 29 Nov 2021 13:16:09 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Mon, 29 Nov 2021 13:17:46 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Wed, 01 Dec 2021 07:12:35 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Wed, 01 Dec 2021 08:03:34 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Mon, 27 Dec 2021 08:05:11 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(1, CASE WHEN sub_category_img  != '' THEN  Concat(sub_category_img) end) ' at line 1 | 
+Mon, 27 Dec 2021 08:05:11 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(2, CASE WHEN sub_category_img  != '' THEN  Concat(sub_category_img) end) ' at line 1 | 
+Mon, 27 Dec 2021 08:05:11 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(5, CASE WHEN sub_category_img  != '' THEN  Concat(sub_category_img) end) ' at line 1 | 
+Mon, 27 Dec 2021 08:05:11 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(3, CASE WHEN sub_category_img  != '' THEN  Concat(sub_category_img) end) ' at line 1 | 
+Mon, 27 Dec 2021 08:05:11 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(6, CASE WHEN sub_category_img  != '' THEN  Concat(sub_category_img) end) ' at line 1 | 
+Mon, 27 Dec 2021 08:05:11 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Concat(4, CASE WHEN sub_category_img  != '' THEN  Concat(sub_category_img) end) ' at line 1 | 
+Mon, 27 Dec 2021 08:07:35 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Mon, 27 Dec 2021 08:07:35 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Mon, 27 Dec 2021 08:07:35 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Mon, 27 Dec 2021 08:07:35 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Mon, 27 Dec 2021 08:07:35 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Mon, 27 Dec 2021 08:07:35 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 | 
+Tue, 11 Jan 2022 12:05:13 GMT | ERROR | Model.log | Error: Unknown column 'sub_category_name' in 'field list' | 
+Tue, 11 Jan 2022 12:24:28 GMT | ERROR | Model.log | Error: Unknown column 'sub_category_name' in 'field list' | 
+Fri, 28 Jan 2022 07:19:21 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:19:27 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:20:03 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:22:56 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:23:06 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:24:11 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:30:37 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:35:47 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 07:36:20 GMT | ERROR | Model.log | Error: Unknown column 'password' in 'field list' | 
+Fri, 28 Jan 2022 08:47:31 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'field list' | 
+Fri, 28 Jan 2022 08:47:40 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'field list' | 
+Fri, 28 Jan 2022 10:46:49 GMT | ERROR | Model.log | Error: Table 'auction.bid' doesn't exist | 
+Fri, 28 Jan 2022 10:47:19 GMT | ERROR | Model.log | Error: Table 'auction.bid' doesn't exist | 
+Fri, 28 Jan 2022 10:47:28 GMT | ERROR | Model.log | Error: Table 'auction.bid' doesn't exist | 
+Fri, 28 Jan 2022 10:48:03 GMT | ERROR | Model.log | Error: Table 'auction.product' doesn't exist | 
+Fri, 28 Jan 2022 10:48:24 GMT | ERROR | Model.log | Error: Column 'status' in where clause is ambiguous | 
+Fri, 28 Jan 2022 11:23:16 GMT | ERROR | Model.log | Error: Table 'auction.product' doesn't exist | 
+Fri, 28 Jan 2022 13:24:08 GMT | ERROR | Model.log | Error: Table 'auction.users' doesn't exist | 
+Sat, 29 Jan 2022 05:18:50 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'order clause' | 
+Sat, 29 Jan 2022 05:48:18 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Sat, 29 Jan 2022 05:56:36 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Sat, 29 Jan 2022 05:56:48 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'order clause' | 
+Sat, 29 Jan 2022 06:00:45 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'order clause' | 
+Sat, 29 Jan 2022 06:45:06 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Sat, 29 Jan 2022 07:25:37 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Sat, 29 Jan 2022 09:02:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 29 Jan 2022 09:02:45 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Sat, 29 Jan 2022 11:24:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 29 Jan 2022 11:24:02 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Sat, 29 Jan 2022 11:27:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 29 Jan 2022 11:27:35 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Sat, 29 Jan 2022 11:36:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 29 Jan 2022 11:36:03 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Sat, 29 Jan 2022 12:33:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 29 Jan 2022 12:33:49 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 05:31:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 05:31:33 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 05:33:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 05:33:05 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 05:47:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 05:47:13 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:29:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:29:43 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:32:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:32:06 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:34:01 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:34:01 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:34:12 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:34:12 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:34:29 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:34:29 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:35:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:35:26 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:36:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:36:46 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:37:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:37:45 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Mon, 31 Jan 2022 06:38:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 31 Jan 2022 06:38:41 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Tue, 01 Feb 2022 05:18:05 GMT | ERROR | Model.log | Error: Table 'auction.users' doesn't exist | 
+Tue, 01 Feb 2022 05:18:11 GMT | ERROR | Model.log | Error: Table 'auction.users' doesn't exist | 
+Tue, 01 Feb 2022 05:18:14 GMT | ERROR | Model.log | Error: Table 'auction.users' doesn't exist | 
+Tue, 01 Feb 2022 06:40:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 01 Feb 2022 06:40:21 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Thu, 03 Feb 2022 11:28:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Feb 2022 11:28:50 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Thu, 03 Feb 2022 11:29:25 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Thu, 03 Feb 2022 11:31:47 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Thu, 03 Feb 2022 11:31:57 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Thu, 03 Feb 2022 11:32:58 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Thu, 03 Feb 2022 11:33:57 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Thu, 03 Feb 2022 11:39:03 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Fri, 04 Feb 2022 05:09:47 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Feb 2022 05:09:47 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Fri, 04 Feb 2022 05:10:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Feb 2022 05:10:27 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Fri, 04 Feb 2022 05:10:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Feb 2022 05:10:42 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Fri, 04 Feb 2022 05:12:54 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Feb 2022 05:12:54 GMT | ERROR | Model.log | Error: Unknown column 'user_id' in 'field list' | 
+Wed, 16 Feb 2022 13:36:28 GMT | ERROR | Model.log | Error: Column 'add_by' cannot be null | 
+Thu, 17 Feb 2022 05:26:41 GMT | ERROR | Model.log | Error: Column 'add_by' cannot be null | 
+Thu, 17 Feb 2022 06:07:05 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Thu, 17 Feb 2022 07:12:04 GMT | ERROR | Model.log | Error: Unknown column 'email_id' in 'where clause' | 
+Thu, 17 Feb 2022 07:31:38 GMT | ERROR | Model.log | Error: Not unique table/alias: 'c' | 
+Thu, 17 Feb 2022 07:31:51 GMT | ERROR | Model.log | Error: Not unique table/alias: 'c' | 
+Thu, 17 Feb 2022 13:32:15 GMT | ERROR | Model.log | Error: Unknown column 'a.mfd_dt' in 'field list' | 
+Fri, 18 Feb 2022 11:56:50 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1 | 
+Mon, 21 Feb 2022 09:55:21 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 10:00:05 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 10:57:42 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:11:59 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:13:49 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:14:28 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:14:58 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:15:47 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:16:14 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:39:56 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 11:41:18 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Mon, 21 Feb 2022 12:31:57 GMT | ERROR | Model.log | Error: Column 'category_id' cannot be null | 
+Mon, 21 Feb 2022 12:35:01 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'brand_id' at row 1 | 
+Mon, 21 Feb 2022 12:35:16 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'brand_id' at row 1 | 
+Tue, 22 Feb 2022 05:09:46 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Tue, 22 Feb 2022 10:43:04 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Tue, 22 Feb 2022 12:23:01 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Tue, 22 Feb 2022 12:37:42 GMT | ERROR | Model.log | Error: Field 'country_id' doesn't have a default value | 
+Tue, 22 Feb 2022 12:37:58 GMT | ERROR | Model.log | Error: Field 'country_id' doesn't have a default value | 
+Tue, 22 Feb 2022 12:39:51 GMT | ERROR | Model.log | Error: Field 'country_id' doesn't have a default value | 
+Tue, 22 Feb 2022 13:14:45 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Tue, 22 Feb 2022 13:29:00 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Tue, 22 Feb 2022 13:30:02 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Tue, 22 Feb 2022 13:32:02 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Tue, 22 Feb 2022 13:32:23 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 04:56:43 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 05:00:41 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 05:09:29 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 05:14:21 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 05:17:12 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 05:24:24 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 23 Feb 2022 08:09:24 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Wed, 23 Feb 2022 08:20:51 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Wed, 23 Feb 2022 08:22:40 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Wed, 23 Feb 2022 08:44:17 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Wed, 23 Feb 2022 08:53:46 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Wed, 23 Feb 2022 09:03:31 GMT | ERROR | Model.log | Error: Incorrect time value: 'null' for column 'start_time' at row 1 | 
+Wed, 23 Feb 2022 10:45:08 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 10:48:01 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 10:49:04 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 10:49:04 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 10:49:33 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Wed, 23 Feb 2022 10:51:58 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 07:05:32 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 08:38:00 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 08:51:19 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:30:07 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:30:23 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:30:46 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:33:05 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:35:29 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:37:45 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:39:48 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:47:27 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 10:51:11 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 11:25:09 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 11:50:15 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 11:53:36 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 11:55:20 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:08:40 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:14:39 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:15:54 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:17:23 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:18:02 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:19:32 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:56:02 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 12:56:34 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:03:51 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:21:11 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:23:15 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:23:59 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:24:41 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:24:53 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:35:47 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:39:11 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:40:50 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:42:01 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:42:21 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:43:09 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:43:23 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:48:36 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:48:51 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:49:01 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:51:40 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:51:51 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:52:03 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 24 Feb 2022 13:52:09 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 09:19:57 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 09:20:01 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 10:09:41 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'brand_id' at row 1 | 
+Fri, 25 Feb 2022 10:09:53 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'brand_id' at row 1 | 
+Fri, 25 Feb 2022 10:35:42 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 13:16:10 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 14:03:00 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 14:50:42 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 14:51:26 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Fri, 25 Feb 2022 14:51:32 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Sat, 26 Feb 2022 05:46:38 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Sat, 26 Feb 2022 10:00:48 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Sat, 26 Feb 2022 11:23:35 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Sat, 26 Feb 2022 11:23:40 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Sat, 26 Feb 2022 11:27:42 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Sat, 26 Feb 2022 11:31:06 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Sat, 26 Feb 2022 11:34:39 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Sat, 26 Feb 2022 11:47:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 26 Feb 2022 11:53:13 GMT | ERROR | Model.log | Error: Unknown column 'b.sub_category_id' in 'field list' | 
+Sat, 26 Feb 2022 11:54:00 GMT | ERROR | Model.log | Error: Unknown column 'b.sub_category_id' in 'field list' | 
+Sat, 26 Feb 2022 11:55:15 GMT | ERROR | Model.log | Error: Unknown column 'b.sub_category_id' in 'field list' | 
+Sat, 26 Feb 2022 11:56:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 26 Feb 2022 12:06:41 GMT | ERROR | Model.log | Error: Unknown column 'c.category_name' in 'field list' | 
+Sat, 26 Feb 2022 12:07:01 GMT | ERROR | Model.log | Error: Unknown column 'c.category_name' in 'field list' | 
+Mon, 28 Feb 2022 05:11:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Feb 2022 09:02:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Feb 2022 10:57:15 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Feb 2022 11:32:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Feb 2022 11:33:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Feb 2022 12:07:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Feb 2022 12:07:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 01 Mar 2022 05:26:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 01 Mar 2022 05:47:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 01 Mar 2022 07:17:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 01 Mar 2022 09:33:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 05:05:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 05:38:23 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 05:52:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 06:09:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 06:11:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 07:30:12 GMT | ERROR | Model.log | Error: Field 'country_code_id' doesn't have a default value | 
+Wed, 02 Mar 2022 07:30:41 GMT | ERROR | Model.log | Error: Field 'country_code_id' doesn't have a default value | 
+Wed, 02 Mar 2022 07:41:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 07:45:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 07:46:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 08:03:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 08:46:54 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 09:34:47 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 02 Mar 2022 09:36:10 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 02 Mar 2022 09:36:12 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 02 Mar 2022 09:52:24 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 12:26:31 GMT | ERROR | Model.log | Error: Unknown column 'sub_category_id' in 'where clause' | 
+Wed, 02 Mar 2022 13:29:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 02 Mar 2022 13:39:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 05:29:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 05:32:23 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 05:32:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 05:33:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 08:00:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 08:00:45 GMT | ERROR | Model.log | Error: Table 'auction.city' doesn't exist | 
+Thu, 03 Mar 2022 08:01:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 08:01:31 GMT | ERROR | Model.log | Error: Table 'auction.sub_category' doesn't exist | 
+Thu, 03 Mar 2022 08:01:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 08:02:55 GMT | ERROR | Model.log | Error: Field 'zoom_link' doesn't have a default value | 
+Thu, 03 Mar 2022 08:32:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 12:20:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 13:13:49 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Thu, 03 Mar 2022 13:14:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 03 Mar 2022 13:14:35 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Thu, 03 Mar 2022 13:14:44 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Thu, 03 Mar 2022 13:14:50 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Thu, 03 Mar 2022 13:14:55 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Thu, 03 Mar 2022 13:40:01 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Thu, 03 Mar 2022 14:26:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Mar 2022 04:51:33 GMT | ERROR | Model.log | Error: Data truncated for column 'role' at row 1 | 
+Fri, 04 Mar 2022 04:52:33 GMT | ERROR | Model.log | Error: Data truncated for column 'role' at row 1 | 
+Fri, 04 Mar 2022 04:53:16 GMT | ERROR | Model.log | Error: Data truncated for column 'role' at row 1 | 
+Fri, 04 Mar 2022 04:54:14 GMT | ERROR | Model.log | Error: Data truncated for column 'role' at row 1 | 
+Fri, 04 Mar 2022 04:55:02 GMT | ERROR | Model.log | Error: Data truncated for column 'role' at row 1 | 
+Fri, 04 Mar 2022 05:40:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Mar 2022 05:46:34 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Mar 2022 05:46:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Mar 2022 06:52:08 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Fri, 04 Mar 2022 06:52:42 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Fri, 04 Mar 2022 09:47:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Mar 2022 09:55:32 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Fri, 04 Mar 2022 09:55:55 GMT | ERROR | Model.log | Error: Unknown column 'g.id' in 'on clause' | 
+Fri, 04 Mar 2022 10:37:15 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Fri, 04 Mar 2022 10:37:15 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Fri, 04 Mar 2022 10:40:01 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Fri, 04 Mar 2022 10:40:01 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Fri, 04 Mar 2022 14:03:05 GMT | ERROR | Model.log | Error: Incorrect integer value: 'hyujk' for column 'sub_category_id' at row 1 | 
+Fri, 04 Mar 2022 14:03:05 GMT | ERROR | Model.log | Error: Incorrect integer value: 'hyujk' for column 'sub_category_id' at row 1 | 
+Mon, 07 Mar 2022 05:01:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 07 Mar 2022 05:37:29 GMT | ERROR | Model.log | Error: Incorrect integer value: 'hyujk' for column 'sub_category_id' at row 1 | 
+Mon, 07 Mar 2022 05:37:29 GMT | ERROR | Model.log | Error: Incorrect integer value: 'hyujk' for column 'sub_category_id' at row 1 | 
+Mon, 07 Mar 2022 06:48:21 GMT | ERROR | Model.log | Error: Incorrect integer value: 'hyujk' for column 'sub_category_id' at row 1 | 
+Mon, 07 Mar 2022 06:48:21 GMT | ERROR | Model.log | Error: Incorrect integer value: 'hyujk' for column 'sub_category_id' at row 1 | 
+Mon, 07 Mar 2022 07:39:29 GMT | ERROR | Model.log | Error: Unknown column 'high_price' in 'field list' | 
+Mon, 07 Mar 2022 07:39:59 GMT | ERROR | Model.log | Error: Unknown column 'high_price' in 'field list' | 
+Mon, 07 Mar 2022 07:41:15 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 07 Mar 2022 07:42:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 07 Mar 2022 07:43:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 07 Mar 2022 11:26:47 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 05:23:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 06:58:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 06:58:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 06:58:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 07:18:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 07:20:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 07:21:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 07:22:40 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 07:23:00 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:13:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:16:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:17:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:19:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:19:23 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:19:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:32:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:33:00 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:33:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:33:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:33:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:33:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:36:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:37:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 08:41:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 09:05:40 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 10:41:56 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 10:42:10 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 10:43:16 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 10:43:28 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 10:43:56 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 10:44:01 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 11:37:58 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 08 Mar 2022 11:50:47 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 11:55:04 GMT | ERROR | Model.log | Error: Unknown column 'high_price' in 'field list' | 
+Tue, 08 Mar 2022 12:09:44 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:10:34 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:10:59 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:11:33 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:12:10 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:12:14 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:12:18 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:14:33 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:14:49 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:26:41 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:27:40 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 12:30:25 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Tue, 08 Mar 2022 13:46:21 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 09 Mar 2022 06:45:52 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 09 Mar 2022 06:48:10 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 09 Mar 2022 06:55:42 GMT | ERROR | Model.log | Error: Unknown column 'final_price' in 'field list' | 
+Wed, 09 Mar 2022 13:06:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 09 Mar 2022 13:08:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 09 Mar 2022 13:08:17 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 10 Mar 2022 05:20:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 10 Mar 2022 06:09:55 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Thu, 10 Mar 2022 06:11:55 GMT | ERROR | Model.log | Error: Incorrect time value: '11: 41' for column 'start_time' at row 1 | 
+Thu, 10 Mar 2022 06:35:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 10 Mar 2022 07:56:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 10 Mar 2022 11:55:49 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 11:56:03 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 11:56:27 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 11:57:10 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:04:35 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:05:56 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:06:11 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:06:20 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:09:18 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:09:27 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:09:39 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:12:37 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:15:15 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:15:20 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:17:26 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:18:01 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:18:08 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:18:17 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:18:23 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:18:31 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjAsInJvbGUiOiJjdXN0b21lciIsImlhdCI6MTY0NjkwOTgzMywiZXhwIjoxNjQ2OTk2MjMzfQ.J06UajE9' | 
+Thu, 10 Mar 2022 12:19:17 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Thu, 10 Mar 2022 12:45:11 GMT | ERROR | Model.log | Error: Incorrect time value: '18:function getMinutes() { [native code] }' for column 'start_time' at row 1 | 
+Sat, 12 Mar 2022 07:52:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 12 Mar 2022 07:54:11 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 14 Mar 2022 05:13:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 14 Mar 2022 05:21:17 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'null' for column 'end_date_time' at row 1 | 
+Mon, 14 Mar 2022 05:21:26 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'null' for column 'end_date_time' at row 1 | 
+Mon, 14 Mar 2022 06:16:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 14 Mar 2022 08:50:39 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'null' for column 'end_date_time' at row 1 | 
+Mon, 14 Mar 2022 08:50:52 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'null' for column 'end_date_time' at row 1 | 
+Mon, 14 Mar 2022 08:57:21 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'null' for column 'end_date_time' at row 1 | 
+Mon, 14 Mar 2022 08:58:48 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'null' for column 'end_date_time' at row 1 | 
+Mon, 14 Mar 2022 09:00:44 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'end_date_time' for column 'end_date_time' at row 1 | 
+Mon, 14 Mar 2022 09:03:55 GMT | ERROR | Model.log | Error: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.bid_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Mon, 14 Mar 2022 09:03:55 GMT | ERROR | Model.log | Error: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.bid_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Mon, 14 Mar 2022 09:04:10 GMT | ERROR | Model.log | Error: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.bid_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Mon, 14 Mar 2022 09:04:10 GMT | ERROR | Model.log | Error: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.bid_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Mon, 14 Mar 2022 09:15:17 GMT | ERROR | Model.log | Error: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.bid_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Mon, 14 Mar 2022 09:15:17 GMT | ERROR | Model.log | Error: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.bid_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Mon, 14 Mar 2022 10:08:24 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 04:40:15 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 04:40:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 04:40:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 08:35:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 08:57:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 09:08:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 09:16:52 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 09:17:04 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 09:17:29 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 09:17:58 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 09:21:26 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 09:38:29 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 09:39:24 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 09:41:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 09:41:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 09:42:29 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 10:04:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 10:10:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 10:21:01 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 10:23:31 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 10:55:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 15 Mar 2022 11:30:33 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 11:30:34 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 11:32:48 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 15 Mar 2022 12:31:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 05:15:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 06:10:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 08:26:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 08:29:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 08:46:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 08:50:29 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 08:53:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 08:54:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:10:36 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:24:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:42:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:43:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:45:12 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:46:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:48:15 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:52:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:59:44 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Wed, 16 Mar 2022 09:59:44 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Wed, 16 Mar 2022 09:59:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 09:59:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:00:07 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Wed, 16 Mar 2022 10:00:07 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Wed, 16 Mar 2022 10:02:14 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Wed, 16 Mar 2022 10:02:14 GMT | ERROR | Model.log | Error: Cannot add or update a child row: a foreign key constraint fails (`auction`.`sub_category`, CONSTRAINT `sub_category_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`category_id`) ON DELETE RESTRICT ON UPDATE RESTRICT) | 
+Wed, 16 Mar 2022 10:05:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:06:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:07:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:08:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:13:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:14:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:21:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 10:30:58 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:15:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:20:40 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:23:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:24:23 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:24:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:25:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:26:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:26:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:27:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:39:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:40:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:41:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:43:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:44:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:44:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:45:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:46:34 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:47:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:51:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:51:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:52:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:53:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:54:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 11:56:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 12:10:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 12:17:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 13:12:57 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:16:16 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:18:00 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:20:29 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:30:12 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:30:57 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:41:15 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:42:22 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:46:25 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:47:03 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:47:49 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:48:54 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:49:57 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 16 Mar 2022 13:58:24 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 13:58:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:25:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:30:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:30:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:30:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:31:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:33:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:34:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:34:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:37:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:40:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:42:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 14:43:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 16 Mar 2022 15:08:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 04:52:58 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 04:54:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 05:02:00 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 05:17:09 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 05:34:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 05:36:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 05:56:20 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Thu, 17 Mar 2022 05:59:36 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Thu, 17 Mar 2022 06:43:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 07:48:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 09:08:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 09:27:09 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 09:36:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 09:38:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 09:59:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 17 Mar 2022 12:27:48 GMT | ERROR | Model.log | Error: Unknown column 'otp' in 'field list' | 
+Thu, 17 Mar 2022 12:57:57 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'model_id' at row 1 | 
+Thu, 17 Mar 2022 13:00:37 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'model_id' at row 1 | 
+Thu, 17 Mar 2022 13:16:05 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Thu, 17 Mar 2022 14:06:19 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 18 Mar 2022 15:09:33 GMT | ERROR | Model.log | Error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.customer_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Fri, 18 Mar 2022 15:50:58 GMT | ERROR | Model.log | Error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'auction.b1.customer_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by | 
+Sat, 19 Mar 2022 06:00:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 04:55:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 06:54:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 07:20:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 07:27:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 07:50:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 09:12:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 12:35:17 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 12:54:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 21 Mar 2022 14:16:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 04:20:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 04:48:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 04:57:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 07:04:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 07:05:00 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:26:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:26:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:30:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:45:11 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:45:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:47:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:48:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:51:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:55:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:55:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:57:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:58:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:58:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 09:59:48 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 10:04:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 10:04:40 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 10:05:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 22 Mar 2022 14:04:45 GMT | ERROR | Model.log | Error: Unknown column 'meeting_id' in 'field list' | 
+Wed, 23 Mar 2022 04:33:12 GMT | ERROR | Model.log | Error: Unknown column 'meeting_id' in 'field list' | 
+Wed, 23 Mar 2022 04:33:30 GMT | ERROR | Model.log | Error: Unknown column 'meeting_id' in 'field list' | 
+Wed, 23 Mar 2022 04:33:50 GMT | ERROR | Model.log | Error: Unknown column 'meeting_id' in 'field list' | 
+Wed, 23 Mar 2022 04:45:35 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 'offline' ORDER BY product_id DESC' at line 1 | 
+Wed, 23 Mar 2022 05:09:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 05:39:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 06:09:11 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 06:16:57 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022/03/2311:46' for column 'start_date_time' at row 1 | 
+Wed, 23 Mar 2022 07:07:53 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'country_id' at row 1 | 
+Wed, 23 Mar 2022 07:09:53 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'country_id' at row 1 | 
+Wed, 23 Mar 2022 07:17:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 07:19:11 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'country_id' at row 1 | 
+Wed, 23 Mar 2022 07:38:37 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 'online' ORDER BY product_id DESC' at line 1 | 
+Wed, 23 Mar 2022 07:39:24 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Wed, 23 Mar 2022 07:39:43 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Wed, 23 Mar 2022 07:39:46 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Wed, 23 Mar 2022 08:13:14 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'country_id' at row 1 | 
+Wed, 23 Mar 2022 08:18:31 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'function toLocaleDateString() { [native code] }' for column 'start_date_time' at row 1 | 
+Wed, 23 Mar 2022 10:01:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:01:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:02:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:03:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:03:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:24:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:32:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:46:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 10:47:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 23 Mar 2022 11:00:45 GMT | ERROR | Model.log | Error: Data truncated for column 'year_id' at row 1 | 
+Wed, 23 Mar 2022 11:22:06 GMT | ERROR | Model.log | Error: Incorrect time value: '4:51:20 pm' for column 'start_time' at row 1 | 
+Wed, 23 Mar 2022 11:29:17 GMT | ERROR | Model.log | Error: Incorrect time value: '16:58:34 GMT+0530' for column 'start_time' at row 1 | 
+Wed, 23 Mar 2022 12:33:05 GMT | ERROR | Model.log | Error: Field 'name' doesn't have a default value | 
+Wed, 23 Mar 2022 12:33:20 GMT | ERROR | Model.log | Error: Field 'name' doesn't have a default value | 
+Wed, 23 Mar 2022 13:16:25 GMT | ERROR | Model.log | Error: Field 'name' doesn't have a default value | 
+Wed, 23 Mar 2022 13:18:33 GMT | ERROR | Model.log | Error: Field 'name' doesn't have a default value | 
+Wed, 23 Mar 2022 13:20:22 GMT | ERROR | Model.log | Error: Field 'name' doesn't have a default value | 
+Wed, 23 Mar 2022 13:22:04 GMT | ERROR | Model.log | Error: Field 'category_id' doesn't have a default value | 
+Thu, 24 Mar 2022 05:03:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 24 Mar 2022 05:05:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 24 Mar 2022 07:18:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 24 Mar 2022 07:25:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 24 Mar 2022 11:40:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 24 Mar 2022 11:40:58 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 24 Mar 2022 11:41:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 24 Mar 2022 14:07:26 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-02-24 14:0function getUTCMinutes() { [native code] }:00' for column 'start_date_time' at row 1 | 
+Thu, 24 Mar 2022 14:09:50 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-02-24 14:0function getUTCMinutes() { [native code] }:00' for column 'start_date_time' at row 1 | 
+Fri, 25 Mar 2022 05:04:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 25 Mar 2022 09:08:31 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-03-27 12:0function getUTCMinutes() { [native code] }:00' for column 'start_date_time' at row 1 | 
+Fri, 25 Mar 2022 09:08:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-03-27 12:0function getUTCMinutes() { [native code] }:00' for column 'start_date_time' at row 1 | 
+Fri, 25 Mar 2022 12:53:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 25 Mar 2022 13:31:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 26 Mar 2022 05:33:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 26 Mar 2022 13:14:15 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Mar 2022 05:17:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Mar 2022 05:24:29 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Mar 2022 06:03:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Mar 2022 07:01:16 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 28 Mar 2022 07:01:23 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 28 Mar 2022 07:02:11 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 28 Mar 2022 07:26:01 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Mar 2022 07:28:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 28 Mar 2022 08:39:02 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 28 Mar 2022 08:39:12 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 28 Mar 2022 08:45:48 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 28 Mar 2022 13:03:08 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 28 Mar 2022 13:06:18 GMT | ERROR | Model.log | Error: Incorrect datetime value: '28-03-2022' for column 'start_date_time' at row 1 | 
+Mon, 28 Mar 2022 13:06:55 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 28 Mar 2022 13:07:01 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 28 Mar 2022 13:07:07 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 28 Mar 2022 13:12:38 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 28 Mar 2022 13:16:53 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 28 Mar 2022 13:20:01 GMT | ERROR | Model.log | Error: Data truncated for column 'country_id' at row 1 | 
+Mon, 28 Mar 2022 13:20:04 GMT | ERROR | Model.log | Error: Data truncated for column 'country_id' at row 1 | 
+Mon, 28 Mar 2022 13:20:19 GMT | ERROR | Model.log | Error: Data truncated for column 'country_id' at row 1 | 
+Mon, 28 Mar 2022 13:23:46 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Tue, 29 Mar 2022 05:11:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 05:15:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 07:33:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 08:56:58 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 09:00:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 09:40:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:11:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:23:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:23:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:24:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:25:54 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:26:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:27:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 10:27:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 11:25:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 29 Mar 2022 12:30:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 30 Mar 2022 05:00:54 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 30 Mar 2022 06:02:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 30 Mar 2022 06:25:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 30 Mar 2022 07:39:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 30 Mar 2022 07:42:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 31 Mar 2022 05:02:48 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 31 Mar 2022 05:24:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 31 Mar 2022 05:25:47 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 31 Mar 2022 05:26:00 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 31 Mar 2022 06:02:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 31 Mar 2022 07:41:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 31 Mar 2022 08:08:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:08:17 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:08:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:11:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:19:51 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:21:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:22:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:23:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:24:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 05:24:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 06:16:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 07:35:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 01 Apr 2022 09:27:26 GMT | ERROR | Model.log | Error: Column 'category_id' cannot be null | 
+Fri, 01 Apr 2022 09:27:26 GMT | ERROR | Model.log | Error: Column 'category_id' cannot be null | 
+Fri, 01 Apr 2022 09:27:26 GMT | ERROR | Model.log | Error: Column 'category_id' cannot be null | 
+Fri, 01 Apr 2022 10:05:03 GMT | ERROR | Model.log | Error: Column 'category_id' cannot be null | 
+Fri, 01 Apr 2022 12:00:13 GMT | ERROR | Model.log | Error: Unknown column 's.sub_category_arabic' in 'field list' | 
+Fri, 01 Apr 2022 12:00:29 GMT | ERROR | Model.log | Error: Unknown column 's.sub_category_arabic' in 'field list' | 
+Fri, 01 Apr 2022 12:04:21 GMT | ERROR | Model.log | Error: Unknown column 's.sub_category_arabic' in 'field list' | 
+Fri, 01 Apr 2022 12:04:54 GMT | ERROR | Model.log | Error: Unknown column 's.sub_category_arabic' in 'field list' | 
+Fri, 01 Apr 2022 12:05:19 GMT | ERROR | Model.log | Error: Unknown column 's.sub_category_arabic' in 'field list' | 
+Mon, 04 Apr 2022 05:25:53 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 05:29:29 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 05:30:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 04 Apr 2022 05:39:29 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 04 Apr 2022 06:46:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 04 Apr 2022 08:18:15 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:18:25 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:18:32 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:18:38 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:18:47 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:19:02 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:19:19 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:32:44 GMT | ERROR | Model.log | Error: Incorrect integer value: 'ad' for column 'country_id' at row 1 | 
+Mon, 04 Apr 2022 08:32:45 GMT | ERROR | Model.log | Error: Incorrect integer value: 'ad' for column 'country_id' at row 1 | 
+Mon, 04 Apr 2022 08:32:52 GMT | ERROR | Model.log | Error: Incorrect integer value: 'ad' for column 'country_id' at row 1 | 
+Mon, 04 Apr 2022 08:34:35 GMT | ERROR | Model.log | Error: Incorrect integer value: 'add' for column 'city_id' at row 1 | 
+Mon, 04 Apr 2022 08:45:39 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:45:45 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:48:32 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 08:48:50 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 04 Apr 2022 09:22:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Apr 2022 05:04:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Apr 2022 10:07:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Apr 2022 10:10:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Apr 2022 10:36:32 GMT | ERROR | Model.log | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 'golivenow' ORDER BY product_id DESC' at line 1 | 
+Thu, 07 Apr 2022 05:12:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 11 Apr 2022 06:46:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 20 Apr 2022 11:07:58 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 30 Apr 2022 06:35:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 30 Apr 2022 06:46:03 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 30 Apr 2022 06:46:30 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 30 Apr 2022 06:46:51 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Mon, 02 May 2022 09:54:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 02 May 2022 10:14:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 02 May 2022 11:58:36 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 02 May 2022 12:54:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 02 May 2022 12:54:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 04 May 2022 04:47:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 04 May 2022 05:09:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 04 May 2022 05:14:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 04 May 2022 07:05:47 GMT | ERROR | Model.log | Error: Incorrect time value: '08:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Wed, 04 May 2022 07:05:58 GMT | ERROR | Model.log | Error: Incorrect time value: '08:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Wed, 04 May 2022 07:06:16 GMT | ERROR | Model.log | Error: Incorrect time value: '08:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Wed, 04 May 2022 07:18:42 GMT | ERROR | Model.log | Error: Incorrect time value: '08:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Wed, 04 May 2022 07:27:11 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 04 May 2022 09:58:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 04 May 2022 12:55:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 04 May 2022 13:35:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 06 May 2022 05:28:12 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 06 May 2022 05:32:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 12 May 2022 06:38:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 14 May 2022 14:07:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 16 May 2022 05:16:01 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 19 May 2022 06:29:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 19 May 2022 07:18:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 19 May 2022 07:50:45 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 19 May 2022 07:51:00 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 19 May 2022 07:51:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 30 May 2022 09:34:40 GMT | ERROR | Model.log | Error: Incorrect time value: '15:04:34   (IST)' for column 'start_time' at row 1 | 
+Mon, 30 May 2022 09:55:42 GMT | ERROR | Model.log | Error: Incorrect time value: '23:24:14   (IST)' for column 'start_time' at row 1 | 
+Mon, 30 May 2022 09:57:56 GMT | ERROR | Model.log | Error: Incorrect time value: '16:27:45   (IST)' for column 'start_time' at row 1 | 
+Mon, 30 May 2022 10:13:44 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 30 May 2022 11:04:39 GMT | ERROR | Model.log | Error: Incorrect time value: '16:34:39   (IST)' for column 'start_time' at row 1 | 
+Tue, 31 May 2022 13:08:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 31 May 2022 13:29:23 GMT | ERROR | Model.log | Error: Incorrect time value: '16:28:00 GMT+0300' for column 'start_time' at row 1 | 
+Wed, 01 Jun 2022 07:18:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 01 Jun 2022 07:44:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 01 Jun 2022 09:17:54 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 01 Jun 2022 18:56:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 01 Jun 2022 18:56:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 07:55:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 07:55:48 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 09:09:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 09:10:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 09:15:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 09:48:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 09:57:34 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 10:03:51 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Jun 2022 13:16:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 03 Jun 2022 06:10:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 03 Jun 2022 06:13:49 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 03 Jun 2022 06:19:47 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 03 Jun 2022 08:08:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 03 Jun 2022 13:46:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 03 Jun 2022 13:47:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 03 Jun 2022 17:38:57 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sun, 05 Jun 2022 11:10:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sun, 05 Jun 2022 11:13:36 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sun, 05 Jun 2022 11:13:43 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sun, 05 Jun 2022 11:13:50 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sun, 05 Jun 2022 11:13:55 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sun, 05 Jun 2022 11:14:03 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sun, 05 Jun 2022 11:14:09 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sun, 05 Jun 2022 11:14:23 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Mon, 06 Jun 2022 05:06:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 06 Jun 2022 05:44:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 06 Jun 2022 05:44:11 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 06 Jun 2022 05:56:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 06 Jun 2022 05:56:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 06 Jun 2022 07:34:51 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 06 Jun 2022 07:34:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 06 Jun 2022 11:09:04 GMT | ERROR | Model.log | Error: Data truncated for column 'auction_type' at row 1 | 
+Mon, 06 Jun 2022 11:23:16 GMT | ERROR | Model.log | Error: Incorrect DATETIME value: '3' | 
+Mon, 06 Jun 2022 11:34:36 GMT | ERROR | Model.log | Error: Incorrect DATETIME value: '3' | 
+Mon, 06 Jun 2022 11:37:01 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'function toDateString() { [native code] }' for column 'start_date_time' at row 1 | 
+Mon, 06 Jun 2022 11:37:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'Mon Jun 06 2022' for column 'start_date_time' at row 1 | 
+Mon, 06 Jun 2022 11:38:10 GMT | ERROR | Model.log | Error: Incorrect datetime value: '06-Jun-2022' for column 'start_date_time' at row 1 | 
+Mon, 06 Jun 2022 11:41:05 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'Mon Jun 06 2022' for column 'start_date_time' at row 1 | 
+Mon, 06 Jun 2022 12:23:07 GMT | ERROR | Model.log | Error: Incorrect datetime value: 'Mon Jun 06 2022' for column 'start_date_time' at row 1 | 
+Mon, 06 Jun 2022 13:06:28 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-06-06 3:undefined:undefined' for column 'end_date_time' at row 1 | 
+Mon, 06 Jun 2022 13:06:29 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-06-06 3:undefined:undefined' for column 'end_date_time' at row 1 | 
+Tue, 07 Jun 2022 06:26:45 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Tue, 07 Jun 2022 06:26:56 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Tue, 07 Jun 2022 06:27:12 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Tue, 07 Jun 2022 06:27:32 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Tue, 07 Jun 2022 06:27:45 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Tue, 07 Jun 2022 06:29:50 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 08 Jun 2022 05:40:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 08 Jun 2022 05:43:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 08 Jun 2022 05:50:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 08 Jun 2022 05:52:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 08 Jun 2022 06:10:52 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:11:37 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:14:16 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:15:11 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 08 Jun 2022 06:15:21 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:15:27 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:17:18 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:17:27 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:17:43 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:17:48 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:21:51 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:21:54 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:24:08 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:25:54 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:27:18 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:28:05 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:28:14 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:28:17 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:30:48 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:30:53 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:30:54 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:32:55 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:35:02 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:35:06 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:35:08 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:40:56 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:41:56 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:43:34 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:43:39 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:43:40 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:45:53 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:47:03 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:48:11 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:48:20 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:48:29 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:50:39 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:54:32 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:54:43 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 06:57:29 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 07:13:16 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 07:36:55 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 07:39:37 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 07:41:36 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 07:41:51 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 07:42:16 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 07:48:04 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 09:29:56 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 09:30:48 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 09:32:31 GMT | ERROR | Model.log | Error: Unknown column 'page_id' in 'field list' | 
+Wed, 08 Jun 2022 09:44:02 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 08 Jun 2022 09:44:27 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 08 Jun 2022 10:34:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 09 Jun 2022 06:41:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 09 Jun 2022 08:13:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 09 Jun 2022 08:14:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 09 Jun 2022 11:22:32 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Thu, 09 Jun 2022 13:14:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 10 Jun 2022 05:21:09 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 10 Jun 2022 13:17:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 10 Jun 2022 13:23:36 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 05:28:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 06:16:01 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-061-11 00:00:00' for column 'start_date_time' at row 1 | 
+Sat, 11 Jun 2022 08:55:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 08:56:48 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 08:56:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 09:03:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 11:16:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 13:47:15 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 11 Jun 2022 14:33:01 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Sat, 11 Jun 2022 14:33:06 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Mon, 13 Jun 2022 05:25:49 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Mon, 13 Jun 2022 05:26:56 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Mon, 13 Jun 2022 08:20:09 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 13 Jun 2022 08:21:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 13 Jun 2022 08:38:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 14 Jun 2022 07:05:42 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Tue, 14 Jun 2022 10:08:16 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Tue, 14 Jun 2022 10:25:02 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Tue, 14 Jun 2022 10:26:59 GMT | ERROR | Model.log | Error: Data truncated for column 'add_dt' at row 1 | 
+Sun, 19 Jun 2022 07:34:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 21 Jun 2022 12:10:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 22 Jun 2022 13:00:50 GMT | ERROR | Model.log | Error: Incorrect integer value: 'undefined' for column 'user_id' at row 1 | 
+Wed, 22 Jun 2022 13:04:19 GMT | ERROR | Model.log | Error: Incorrect integer value: '[object Object]' for column 'user_id' at row 1 | 
+Thu, 23 Jun 2022 11:25:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Jun 2022 12:42:48 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Thu, 23 Jun 2022 22:14:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-06-23 01:14:41 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 23 Jun 2022 22:15:01 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-06-23 01:15:02 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 23 Jun 2022 22:16:00 GMT | ERROR | Model.log | Error: Incorrect time value: '01:15:15 GMT+0300' for column 'start_time' at row 1 | 
+Thu, 23 Jun 2022 22:16:51 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Thu, 23 Jun 2022 22:16:55 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:19:11 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:19:24 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:21:39 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:22:01 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:22:48 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:23:06 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:30:16 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:31:35 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:31:49 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:33:52 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Fri, 24 Jun 2022 05:34:00 GMT | ERROR | Model.log | Error: Truncated incorrect DOUBLE value: 'undefined' | 
+Wed, 29 Jun 2022 10:20:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 10:31:17 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 10:45:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 10:48:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 11:12:24 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 11:32:15 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 12:40:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 13:15:51 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Jun 2022 13:16:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 30 Jun 2022 04:40:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 30 Jun 2022 12:50:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 04 Jul 2022 08:08:23 GMT | ERROR | Model.log | Error: Incorrect time value: '13:38:01   (IST)' for column 'start_time' at row 1 | 
+Mon, 04 Jul 2022 08:11:06 GMT | ERROR | Model.log | Error: Incorrect time value: '13:40:49   (IST)' for column 'start_time' at row 1 | 
+Mon, 04 Jul 2022 08:13:29 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 04 Jul 2022 08:21:12 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Mon, 04 Jul 2022 11:38:45 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Tue, 05 Jul 2022 05:34:47 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 05 Jul 2022 05:34:53 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 05 Jul 2022 05:38:18 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 05 Jul 2022 05:38:22 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 05 Jul 2022 05:39:16 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 05 Jul 2022 06:02:53 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Tue, 05 Jul 2022 06:07:40 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Tue, 05 Jul 2022 06:17:26 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Tue, 05 Jul 2022 06:17:55 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Tue, 05 Jul 2022 06:33:18 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Tue, 05 Jul 2022 06:34:45 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Tue, 05 Jul 2022 07:24:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:26:20 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:31:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:34:48 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:35:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:36:17 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:38:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:38:24 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:38:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:41:27 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:46:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:50:14 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 13:50:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 05 Jul 2022 14:17:17 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 06 Jul 2022 13:12:12 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 22 Jul 2022 06:57:34 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Fri, 22 Jul 2022 06:57:41 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Fri, 22 Jul 2022 06:57:43 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Fri, 22 Jul 2022 07:00:28 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Sat, 23 Jul 2022 07:07:44 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 23 Jul 2022 07:11:42 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 23 Jul 2022 07:20:02 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 23 Jul 2022 07:26:22 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 23 Jul 2022 07:27:04 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 23 Jul 2022 08:24:33 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Sun, 24 Jul 2022 08:12:29 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-07-24 11:12:30 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 29 Jul 2022 13:18:12 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-07-29 16:18:12 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 30 Jul 2022 13:11:21 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 02 Aug 2022 07:05:54 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:35:53   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 07:06:22 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:36:21   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 07:08:54 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:38:53   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 07:15:54 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:45:50   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 07:17:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:47:19   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 07:20:11 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:50:07   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 07:21:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:51:36   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 07:22:14 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 12:52:10   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 12:12:28 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 17:42:23   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 12:35:31 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 18:05:27   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 02 Aug 2022 12:35:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-02 18:05:35   (IST)' for column 'start_date_time' at row 1 | 
+Wed, 03 Aug 2022 06:39:12 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Wed, 03 Aug 2022 11:07:18 GMT | ERROR | Model.log | Error: Data too long for column 'mobile_no' at row 1 | 
+Sun, 07 Aug 2022 13:59:44 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-07 16:59:46 GMT+0300' for column 'start_date_time' at row 1 | 
+Mon, 08 Aug 2022 07:11:55 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-08-08 10:11:54 GMT+0300' for column 'start_date_time' at row 1 | 
+Mon, 08 Aug 2022 07:19:34 GMT | ERROR | Model.log | Error: Incorrect time value: '10:17:14 GMT+0300' for column 'start_time' at row 1 | 
+Mon, 08 Aug 2022 17:07:16 GMT | ERROR | Model.log | Error: Incorrect time value: '20:00:00 GMT+0300' for column 'start_time' at row 1 | 
+Fri, 12 Aug 2022 05:49:45 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Fri, 12 Aug 2022 05:54:49 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Fri, 12 Aug 2022 05:55:54 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Fri, 12 Aug 2022 06:05:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 12 Aug 2022 06:25:34 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Fri, 12 Aug 2022 06:25:59 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'year_id' at row 1 | 
+Fri, 12 Aug 2022 07:48:23 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 16 Aug 2022 10:53:40 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 16 Aug 2022 11:15:34 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Tue, 16 Aug 2022 11:15:52 GMT | ERROR | Model.log | Error: Incorrect integer value: 'null' for column 'category_id' at row 1 | 
+Mon, 05 Sep 2022 07:02:34 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 06 Sep 2022 06:48:57 GMT | ERROR | Model.log | Error: Out of range value for column 'user_mobile_no' at row 1 | 
+Thu, 08 Sep 2022 18:57:14 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:15 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:16 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:17 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:18 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:20 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:20 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:21 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:21 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:22 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:22 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:23 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:22 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:24 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:25 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:25 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:24 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:25 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:24 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:25 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:24 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:26 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:25 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:26 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:26 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:28 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:27 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:29 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:28 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:30 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:29 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:31 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:37 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:39 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:38 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:39 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:38 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:40 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:39 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:40 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:39 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:41 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:41 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:41 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:41 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:42 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:42 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:42 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:42 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:42 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:43 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:43 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:42 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:43 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:42 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:43 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:44 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:46 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:45 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:47 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:45 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:47 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:46 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:47 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:46 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:47 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:46 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:47 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:46 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:48 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:46 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:48 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:46 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:48 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:48 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:49 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:48 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:49 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:48 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:48 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Thu, 08 Sep 2022 18:57:52 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-08 21:57:54 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 04:44:09 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_amount' at row 1 | 
+Sat, 10 Sep 2022 10:44:23 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Sat, 10 Sep 2022 10:51:33 GMT | ERROR | Model.log | Error: Data too long for column 'title' at row 1 | 
+Sat, 10 Sep 2022 20:43:34 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:35 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:37 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:38 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:42 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:42 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:43 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:43 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:44 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:44 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:45 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:44 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:45 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:45 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:46 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:45 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:46 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:46 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:47 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:47 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:48 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:47 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:48 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:48 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:49 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:48 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:49 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:49 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:50 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:50 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:50 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:51 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:50 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:51 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:50 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:51 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:50 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:51 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:51 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:52 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:51 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:52 GMT+0300' for column 'start_date_time' at row 1 | 
+Sat, 10 Sep 2022 20:43:51 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-10 23:43:52 GMT+0300' for column 'start_date_time' at row 1 | 
+Mon, 12 Sep 2022 16:16:15 GMT | ERROR | Model.log | Error: Data too long for column 'title' at row 1 | 
+Tue, 13 Sep 2022 12:09:35 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 13 Sep 2022 13:08:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 13 Sep 2022 14:04:42 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Tue, 13 Sep 2022 14:13:15 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Wed, 14 Sep 2022 13:09:00 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Wed, 14 Sep 2022 13:14:25 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Wed, 14 Sep 2022 13:17:53 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Wed, 14 Sep 2022 13:20:40 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Wed, 14 Sep 2022 13:22:57 GMT | ERROR | Model.log | Error: Data too long for column 'description' at row 1 | 
+Fri, 16 Sep 2022 03:10:04 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:05 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:05 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:07 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:06 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:08 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:07 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:08 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:08 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:09 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:08 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:10 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:09 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:11 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:10 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:11 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:10 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:12 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:11 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:13 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 03:10:12 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-09-16 06:10:14 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 16 Sep 2022 14:35:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 16 Sep 2022 15:17:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 19 Sep 2022 15:44:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 28 Sep 2022 09:32:29 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 28 Sep 2022 15:16:22 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 28 Sep 2022 15:32:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 28 Sep 2022 15:33:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 28 Sep 2022 20:49:37 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 28 Sep 2022 20:50:52 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 30 Sep 2022 15:03:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 30 Sep 2022 15:16:11 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 01 Oct 2022 02:20:47 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 04 Oct 2022 20:50:35 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 07 Oct 2022 14:59:58 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 11 Oct 2022 04:00:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 01 Nov 2022 10:34:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 01 Nov 2022 13:56:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 04 Nov 2022 22:32:50 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:32:51 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:32:55 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:32:56 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:32:59 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:00 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:07 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:08 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:12 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:14 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:13 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:15 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:15 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:16 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:16 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:17 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:16 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:18 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:16 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:18 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:17 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:19 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:18 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:19 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:19 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:19 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:19 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:20 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:19 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:21 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:20 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:21 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:20 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:22 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:21 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:23 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:22 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:24 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:22 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:23 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:22 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:24 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:24 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:24 GMT+0300' for column 'start_date_time' at row 1 | 
+Fri, 04 Nov 2022 22:33:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-04 01:33:24 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:30 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:28 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:32 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:30 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:33 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:31 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:34 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:33 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:35 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:33 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:35 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:34 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:35 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:34 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:36 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:34 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:36 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:35 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:37 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:35 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:37 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:36 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:38 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:36 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:39 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:38 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:39 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:37 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:38 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:39 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:39 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:42 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:40 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:42 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:40 GMT+0300' for column 'start_date_time' at row 1 | 
+Sun, 20 Nov 2022 13:58:42 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-20 16:58:40 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:22 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:22 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:22 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:23 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:23 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:24 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:24 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:25 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:25 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:26 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:26 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:27 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:27 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 14:44:28 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 17:44:28 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:36 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:35 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:37 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:37 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:38 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:38 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:39 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:39 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:40 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:40 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:41 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:41 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:42 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:42 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:04:44 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:04:44 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:05:02 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2022-11-22 18:05:01 GMT+0300' for column 'start_date_time' at row 1 | 
+Tue, 22 Nov 2022 15:07:16 GMT | ERROR | Model.log | Error: Incorrect time value: '21:05:00 GMT+0300' for column 'start_time' at row 1 | 
+Thu, 22 Dec 2022 06:51:34 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 16 Jan 2023 09:01:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 16 Jan 2023 09:02:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 16 Jan 2023 10:04:01 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 16 Jan 2023 10:04:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 16 Jan 2023 10:04:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 16 Jan 2023 10:15:09 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 18 Jan 2023 05:15:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 31 Jan 2023 11:35:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 31 Jan 2023 11:35:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 31 Jan 2023 11:35:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 31 Jan 2023 11:37:53 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 31 Jan 2023 11:37:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 01 Feb 2023 05:54:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 01 Feb 2023 05:55:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 01 Feb 2023 05:56:48 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 02 Feb 2023 04:43:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 16 Feb 2023 09:21:28 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 18 Mar 2023 06:50:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 18 Mar 2023 06:50:36 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 18 Mar 2023 06:50:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 18 Mar 2023 06:52:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 18 Mar 2023 13:47:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 18 Mar 2023 13:48:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 20 Mar 2023 12:36:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 20 Mar 2023 12:38:42 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 20 Mar 2023 12:39:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Mon, 20 Mar 2023 13:11:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 21 Mar 2023 05:11:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 21 Mar 2023 06:13:23 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 21 Mar 2023 06:13:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 21 Mar 2023 06:13:38 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 21 Mar 2023 06:14:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 21 Mar 2023 08:55:34 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 03:23:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 03:38:39 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 03:44:17 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 03:47:03 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 03:47:09 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 03:47:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 04:24:19 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 04:27:21 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 04:42:43 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 04:54:30 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 04:54:32 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 06:42:51 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:21:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:22:31 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:24:10 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:24:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:28:40 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:29:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:29:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:41:07 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 07:51:56 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 09:37:33 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 10:45:25 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Thu, 23 Mar 2023 11:23:16 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 05:33:08 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 05:33:46 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 05:33:59 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 05:34:50 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 05:36:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 05:36:18 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 06:09:05 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 06:35:23 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 08:35:04 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 08:47:41 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 09:23:24 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Fri, 24 Mar 2023 11:32:26 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 28 Mar 2023 10:25:55 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 28 Mar 2023 10:27:57 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 28 Mar 2023 10:28:06 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Tue, 28 Mar 2023 10:29:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Mar 2023 09:48:13 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Wed, 29 Mar 2023 09:50:02 GMT | ERROR | Model.log | Error: Table 'auction.client' doesn't exist | 
+Sat, 13 May 2023 10:03:42 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:19' for column 'start_time' at row 1 | 
+Sat, 13 May 2023 10:03:53 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:30' for column 'start_time' at row 1 | 
+Sat, 13 May 2023 10:07:12 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:49' for column 'start_time' at row 1 | 
+Sat, 13 May 2023 10:08:15 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:52' for column 'start_time' at row 1 | 
+Sat, 13 May 2023 10:08:24 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:01' for column 'start_time' at row 1 | 
+Sat, 13 May 2023 10:09:12 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 07:07:36 GMT | ERROR | Model.log | Error: Incorrect time value: '07:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 09:58:30 GMT | ERROR | Model.log | Error: Data too long for column 'mobile_no' at row 1 | 
+Mon, 15 May 2023 10:01:53 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:53' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 10:02:06 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:05' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 10:03:40 GMT | ERROR | Model.log | Error: Incorrect time value: '10:0function getUTCMinutes() { [native code] }:40' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 12:00:19 GMT | ERROR | Model.log | Error: Incorrect time value: '14:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 12:00:29 GMT | ERROR | Model.log | Error: Incorrect time value: '14:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 12:01:47 GMT | ERROR | Model.log | Error: Incorrect time value: '14:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 12:02:43 GMT | ERROR | Model.log | Error: Incorrect time value: '12:0function getUTCMinutes() { [native code] }:43' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 12:05:27 GMT | ERROR | Model.log | Error: Incorrect time value: '12:0function getUTCMinutes() { [native code] }:27' for column 'start_time' at row 1 | 
+Mon, 15 May 2023 12:08:21 GMT | ERROR | Model.log | Error: Incorrect time value: '12:0function getUTCMinutes() { [native code] }:20' for column 'start_time' at row 1 | 
+Fri, 19 May 2023 12:27:52 GMT | ERROR | Model.log | Error: Incorrect integer value: '[object HTMLSpanElement]' for column 'sub_category_year_applies' at row 1 | 
+Fri, 19 May 2023 13:03:32 GMT | ERROR | Model.log | Error: Data too long for column 'mobile_no' at row 1 | 
+Fri, 19 May 2023 13:07:32 GMT | ERROR | Model.log | Error: Data too long for column 'mobile_no' at row 1 | 
+Mon, 22 May 2023 12:37:50 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 23 May 2023 05:00:14 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 23 May 2023 05:14:52 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 23 May 2023 05:16:13 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 23 May 2023 05:16:33 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 23 May 2023 05:20:37 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 23 May 2023 05:23:16 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 23 May 2023 05:24:20 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Wed, 24 May 2023 06:58:41 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:00:46 GMT | ERROR | Model.log | Error: Incorrect time value: '07:0function getUTCMinutes() { [native code] }:47' for column 'start_time' at row 1 | 
+Wed, 24 May 2023 07:00:54 GMT | ERROR | Model.log | Error: Incorrect time value: '07:0function getUTCMinutes() { [native code] }:56' for column 'start_time' at row 1 | 
+Wed, 24 May 2023 07:01:15 GMT | ERROR | Model.log | Error: Incorrect time value: '07:0function getUTCMinutes() { [native code] }:16' for column 'start_time' at row 1 | 
+Wed, 24 May 2023 07:03:35 GMT | ERROR | Model.log | Error: Incorrect time value: '07:0function getUTCMinutes() { [native code] }:36' for column 'start_time' at row 1 | 
+Wed, 24 May 2023 07:04:42 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:05:05 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:07:06 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:10:12 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:17:12 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:23:02 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:27:27 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:31:10 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:37:48 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:41:08 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 07:45:56 GMT | ERROR | Model.log | Error: Data truncated for column 'bid_status' at row 1 | 
+Wed, 24 May 2023 13:00:32 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Wed, 24 May 2023 13:01:53 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Wed, 24 May 2023 13:07:34 GMT | ERROR | Model.log | Error: Incorrect time value: '13:0function getUTCMinutes() { [native code] }:35' for column 'start_time' at row 1 | 
+Wed, 24 May 2023 13:07:54 GMT | ERROR | Model.log | Error: Incorrect time value: '13:0function getUTCMinutes() { [native code] }:56' for column 'start_time' at row 1 | 
+Wed, 24 May 2023 13:08:27 GMT | ERROR | Model.log | Error: Incorrect time value: '13:0function getUTCMinutes() { [native code] }:28' for column 'start_time' at row 1 | 
+Wed, 24 May 2023 13:09:42 GMT | ERROR | Model.log | Error: Incorrect time value: '13:0function getUTCMinutes() { [native code] }:43' for column 'start_time' at row 1 | 
+Thu, 25 May 2023 05:27:24 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Thu, 25 May 2023 05:27:31 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Thu, 25 May 2023 05:28:34 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Fri, 26 May 2023 13:22:01 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:24:46 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:27:25 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:27:45 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:28:18 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:29:02 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:33:45 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:35:01 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Fri, 26 May 2023 13:37:23 GMT | ERROR | Model.log | Error: Unknown column 'customer_id' in 'where clause' | 
+Mon, 29 May 2023 06:24:21 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'where clause' | 
+Mon, 29 May 2023 06:37:06 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'where clause' | 
+Mon, 29 May 2023 10:12:10 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Mon, 29 May 2023 10:12:19 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Mon, 29 May 2023 12:01:56 GMT | ERROR | Model.log | Error: Incorrect time value: '12:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Mon, 29 May 2023 12:02:06 GMT | ERROR | Model.log | Error: Incorrect time value: '12:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Wed, 31 May 2023 07:01:42 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 31 May 2023 12:10:08 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Tue, 06 Jun 2023 04:49:00 GMT | ERROR | Model.log | Error: Out of range value for column 'year' at row 1 | 
+Tue, 06 Jun 2023 13:08:29 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:08:29 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:08:30 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:08:30 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:08:55 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:09:11 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:17:24 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:17:31 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Tue, 06 Jun 2023 13:22:25 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 04:30:49 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 04:31:43 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:23:04 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:23:18 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:30:18 GMT | ERROR | Model.log | Error: Incorrect integer value: 'false' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:35:26 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:42:18 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:51:55 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:54:58 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 05:59:19 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 06:08:22 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 06:12:30 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 06:21:01 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 06:28:23 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 06:28:37 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 06:31:17 GMT | ERROR | Model.log | Error: Incorrect integer value: 'true' for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 14:11:19 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 14:11:59 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Wed, 07 Jun 2023 14:12:28 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Thu, 08 Jun 2023 07:10:42 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Thu, 08 Jun 2023 07:11:03 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Thu, 08 Jun 2023 07:18:20 GMT | ERROR | Model.log | Error: Incorrect integer value: ',' for column 'sub_category_year_applies' at row 1 | 
+Fri, 09 Jun 2023 04:38:11 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Fri, 09 Jun 2023 04:38:50 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Fri, 09 Jun 2023 04:41:05 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Fri, 09 Jun 2023 05:05:44 GMT | ERROR | Model.log | Error: Incorrect integer value: ',' for column 'sub_category_year_applies' at row 1 | 
+Fri, 09 Jun 2023 06:10:10 GMT | ERROR | Model.log | Error: Data truncated for column 'sub_category_year_applies' at row 1 | 
+Fri, 09 Jun 2023 07:56:05 GMT | ERROR | Model.log | Error: Data too long for column 'mobile_no' at row 1 | 
+Sat, 10 Jun 2023 05:23:22 GMT | ERROR | Model.log | Error: Data too long for column 'mobile_no' at row 1 | 
+Sat, 10 Jun 2023 07:22:06 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2023-06-10 12:52:05   (IST)' for column 'start_date_time' at row 1 | 
+Sat, 10 Jun 2023 07:22:52 GMT | ERROR | Model.log | Error: Incorrect datetime value: '2023-06-10 12:52:50   (IST)' for column 'start_date_time' at row 1 | 
+Tue, 13 Jun 2023 07:24:59 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Tue, 13 Jun 2023 07:25:06 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Tue, 13 Jun 2023 07:25:10 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Tue, 13 Jun 2023 07:25:14 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Tue, 13 Jun 2023 07:25:17 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Tue, 13 Jun 2023 07:25:32 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Tue, 13 Jun 2023 07:27:03 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Fri, 16 Jun 2023 13:06:43 GMT | ERROR | Model.log | Error: Incorrect time value: '14:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Mon, 19 Jun 2023 07:06:24 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Mon, 19 Jun 2023 07:06:59 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Wed, 21 Jun 2023 06:08:41 GMT | ERROR | Model.log | Error: Incorrect time value: '07:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Wed, 21 Jun 2023 06:09:02 GMT | ERROR | Model.log | Error: Incorrect time value: '07:0function getUTCMinutes() { [native code] }:00' for column 'start_time' at row 1 | 
+Wed, 28 Jun 2023 12:27:21 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Wed, 28 Jun 2023 12:28:14 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Wed, 28 Jun 2023 12:29:04 GMT | ERROR | Model.log | Error: Data truncated for column 'starting_price' at row 1 | 
+Mon, 10 Jul 2023 10:34:59 GMT | ERROR | Model.log | Error: Operand should contain 1 column(s) | 
+Mon, 10 Jul 2023 10:37:21 GMT | ERROR | Model.log | Error: Operand should contain 1 column(s) | 
+Thu, 27 Jul 2023 09:47:17 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Thu, 27 Jul 2023 09:51:27 GMT | ERROR | Model.log | Error: Unknown column 'id' in 'where clause' | 
+Thu, 05 Oct 2023 07:10:29 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Thu, 05 Oct 2023 07:14:40 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Thu, 05 Oct 2023 07:31:11 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Thu, 05 Oct 2023 07:52:35 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Thu, 05 Oct 2023 07:52:47 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Thu, 05 Oct 2023 10:53:04 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Thu, 05 Oct 2023 10:53:04 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 05:17:28 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 05:44:07 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 06:14:20 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 06:15:04 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 07:01:22 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 07:01:42 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 07:11:30 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 07:11:36 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 07:18:55 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Fri, 06 Oct 2023 07:19:02 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Mon, 09 Oct 2023 05:17:01 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Mon, 09 Oct 2023 05:17:04 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Tue, 10 Oct 2023 13:11:56 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Wed, 11 Oct 2023 06:25:24 GMT | ERROR | Model.log | Error: Incorrect time value: 'Invalid date' for column 'end_time' at row 1 | 
+Wed, 11 Oct 2023 06:26:22 GMT | ERROR | Model.log | Error: Incorrect time value: 'Invalid date' for column 'end_time' at row 1 | 
+Wed, 11 Oct 2023 07:48:35 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
+Wed, 11 Oct 2023 07:48:51 GMT | ERROR | Model.log | Error: Unknown column 'customer' in 'where clause' | 
